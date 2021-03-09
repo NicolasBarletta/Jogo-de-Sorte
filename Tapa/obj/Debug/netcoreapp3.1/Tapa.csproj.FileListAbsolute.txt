@@ -1,0 +1,13 @@
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\Tapa\obj\Debug\netcoreapp3.1\Tapa.csprojAssemblyReference.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\Tapa\obj\Debug\netcoreapp3.1\Tapa.AssemblyInfoInputs.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\Tapa\obj\Debug\netcoreapp3.1\Tapa.AssemblyInfo.cs
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\Tapa\obj\Debug\netcoreapp3.1\Tapa.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\Tapa\bin\Debug\netcoreapp3.1\Tapa.exe
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\Tapa\bin\Debug\netcoreapp3.1\Tapa.deps.json
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\Tapa\bin\Debug\netcoreapp3.1\Tapa.runtimeconfig.json
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\Tapa\bin\Debug\netcoreapp3.1\Tapa.runtimeconfig.dev.json
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\Tapa\bin\Debug\netcoreapp3.1\Tapa.dll
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\Tapa\bin\Debug\netcoreapp3.1\Tapa.pdb
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\Tapa\obj\Debug\netcoreapp3.1\Tapa.dll
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\Tapa\obj\Debug\netcoreapp3.1\Tapa.pdb
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\Tapa\obj\Debug\netcoreapp3.1\Tapa.genruntimeconfig.cache
